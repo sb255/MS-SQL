@@ -1,2 +1,2 @@
 # SB255-MS-SQL
-Basic commands, Stored procedures, functions etc.
+Basic T-SQL commands, Stored procedures, Functions etc.
